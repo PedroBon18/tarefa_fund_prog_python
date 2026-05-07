@@ -1,2 +1,2 @@
-# Tarefa Fundamentos de Progrmação
+# Tarefa Fundamentos de Programação
 python
