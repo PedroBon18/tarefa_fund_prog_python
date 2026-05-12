@@ -1,3 +1,4 @@
 Meu primeiro commit
 Olá Mundo
 Hello World
+ハローセカイ
