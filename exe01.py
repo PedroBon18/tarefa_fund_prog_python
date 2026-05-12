@@ -1,0 +1,6 @@
+print("Olá Mundo")
+print("Hello World")
+print("ハローセカイ")
+print("こんにちは世界")
+print("Hola Mundo")
+print("Bonjour le monde")
